@@ -1,5 +1,5 @@
 # network_diagram_standards
-FOSS Network Diagramming standards.
+FOSS Network Diagramming standards. Created by Blair Bryant. Free to use.
 
 # Network Diagram Design System Standards
 Version 1.8 | February 2025
